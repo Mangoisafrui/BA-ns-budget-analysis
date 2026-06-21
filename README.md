@@ -1,4 +1,3 @@
-# BA-ns-budget-analysis
 # Nova Scotia Budget Analysis
 
 A business analysis project examining regional cost-of-living and spending trends across Nova Scotia.
